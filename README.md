@@ -22,8 +22,8 @@ The following design patterns have been implemented throughout the career lifecy
 
 ### 2. Cloud-Native Modernization
 * **Pattern:** Containerization and Orchestration.
-* **Implementation:** Architected the migration of legacy cloud services and background workers to Kubernetes (AKS).
-* **Impact:** Successfully migrated **80% of legacy background workers**, resulting in a **25% improvement** in system reliability.
+* **Implementation:** Implemented migration of legacy cloud services and background workers to Kubernetes (AKS).
+* **Impact:** Successfully migrated services resulting in a **25% improvement** in system reliability.
 
 ### 3. Global Scale & Accessibility
 * **Pattern:** UI/UX Internationalization (I18n) & Localization (L10n).
