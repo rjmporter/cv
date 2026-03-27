@@ -40,8 +40,7 @@ namespace Career.SoftwareEngineering
                 Period = "March 2019 – Present",
                 Highlights = new List<string> 
                 {
-                    "Managed modernization of cloud-native services serving millions of users globally.",
-                    "Migrated 80% of legacy background workers to Kubernetes (AKS), increasing reliability by 25%.",
+                    "Supported modernization of cloud-native services serving millions of users globally.",
                     "Secured executive buy-in for platform-first strategies, reducing duplicated effort by 40%.",
                     "Integrated OpenAI and ElevenLabs for high-fidelity voice synthesis and AI-driven media automation.",
                     "Mentored 3 senior engineers into Technical Lead roles within a 24-month period.",
